@@ -18,5 +18,14 @@
     "eslint-config-airbnb-base": "^14.0.0",
     "eslint-plugin-html": "^6.0.0",
     "eslint-plugin-import": "^2.18.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaeloduyebo/stester.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/michaeloduyebo/stester/issues"
+  },
+  "homepage": "https://github.com/michaeloduyebo/stester#readme"
 }
